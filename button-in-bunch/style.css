@@ -1,0 +1,21 @@
+/* Add your css styles here */
+body {
+    text-align: center;
+    font-family: 'Tahoma';
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    background-color: #e59400;
+    border: 1px solid black;
+    color: black;
+    font-size: 1.2rem;
+}
+
+button:hover {
+    background-color: #b77600;
+}
